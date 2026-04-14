@@ -103,7 +103,7 @@ This creates a **“treadmill effect”** — growth without real progress.
 
 ## 📊 Dashboard Preview
 *## 📊 Dashboard Preview
-
+Add dashboard screenshot
 ### Overview
 ![Overview](screenshots/revenue sports.png)
 
