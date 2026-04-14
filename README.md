@@ -129,5 +129,5 @@ This project demonstrates how businesses can **increase profitability without in
 ---
 
 ## 📬 Let’s Connect
-- LinkedIn: [Add your link]  
+- LinkedIn: [www.linkedin.com/in/mostafagamalmostafa]  
 - GitHub: [Add your profile]  
