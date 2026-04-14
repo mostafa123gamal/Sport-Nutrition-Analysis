@@ -102,7 +102,13 @@ This creates a **“treadmill effect”** — growth without real progress.
 ---
 
 ## 📊 Dashboard Preview
-*(Add screenshots here)*
+*## 📊 Dashboard Preview
+
+### Overview
+![Overview](screenshots/overview.png)
+
+### Customer Analysis
+![Customers](screenshots/customers.png)*
 
 ---
 
