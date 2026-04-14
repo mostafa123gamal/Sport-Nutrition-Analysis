@@ -105,11 +105,22 @@ This creates a **“treadmill effect”** — growth without real progress.
 *## 📊 Dashboard Preview
 
 ### Overview
-![Overview](screenshots/overview.png)
+![Overview](screenshots/revenue sports.png)
+
+### Time Analysis
+![Time](screenshots/time sports.png)*
 
 ### Customer Analysis
-![Customers](screenshots/customers.png)*
+![Customers](screenshots/customer sports.png)*
 
+### Product Analysis
+![Product](screenshots/product sports.png)*
+
+### Retuen Analysis
+![Retuen](screenshots/return sports.png)*
+
+### Locaton Analysis
+![Locaton](screenshots/location sports.png)*
 ---
 
 ## 🚀 Key Takeaway
