@@ -1,0 +1,2 @@
+# Sport Nutrition Analysis
+This project analyzes business performance to uncover why revenue growth is not translating into increased profitability. It identifies key issues, including rising costs, high return rates, and customer churn, which are limiting overall business performance. Through data-driven analysis, the project highlights significant hidden financial losses and uncovers opportunities to improve efficiency and maximize profit from existing operations. It also provides clear, actionable insights to support better decision-making and sustainable business growth.
